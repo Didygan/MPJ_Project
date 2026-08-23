@@ -21,6 +21,10 @@
       "sha1": "d0f65ef836e05cb4d674b6205d369d2220ff1283"
     },
     {
+      "path": "content/mods/better-advanced-tooltips.json",
+      "sha1": "c8f598e9ae79dbbc5f00c4ef2909b9432c0b3c0d"
+    },
+    {
       "path": "content/mods/better-block-entities.json",
       "sha1": "1bd057eb1379cc32808f01b8aa51fd5602e2075a"
     },
@@ -33,12 +37,32 @@
       "sha1": "cd5a5e8b6a1d49489110865ea40b72d4f4207d04"
     },
     {
+      "path": "content/mods/cardinal-components-api.json",
+      "sha1": "dda185e0e5d88401f8c698445b575bbe8e5159a6"
+    },
+    {
       "path": "content/mods/cerulean.json",
       "sha1": "ab3c5b0a2ca2f24eab293f826b788801b00c1c82"
     },
     {
       "path": "content/mods/clear-void.json",
       "sha1": "6399bdbb2c23adabd714a68632d02b39c3b2f8f7"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "db199d3303fda0aece729cfc6fee3de5e11b0f37"
+    },
+    {
+      "path": "content/mods/connector-extras.json",
+      "sha1": "5a42241a11cdb639c9f82d13aa4fb12314a51583"
+    },
+    {
+      "path": "content/mods/create-aeronautics.json",
+      "sha1": "869a5afe78b51fb72599f5bba186022ab0166aaa"
+    },
+    {
+      "path": "content/mods/create.json",
+      "sha1": "47e57c22a9c49945eb4ed4b78d7c7910ee5c7a16"
     },
     {
       "path": "content/mods/cupboard.json",
@@ -81,6 +105,14 @@
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
     {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "646d79a32a8bffe572356506f68981d83a7e70bd"
+    },
+    {
+      "path": "content/mods/grassier-grass.json",
+      "sha1": "ffa76a1bc9754eba2f15d991f95f67b4baa15db9"
+    },
+    {
       "path": "content/mods/immediatelyfast.json",
       "sha1": "2e891fc84fa2516404dec087af48efcb4898c49f"
     },
@@ -101,12 +133,20 @@
       "sha1": "27002e4a9070dddee09db68a6e7e3811f9a42493"
     },
     {
+      "path": "content/mods/kubejs.json",
+      "sha1": "4f2166d390865fab1ec79a77906f307180f868fc"
+    },
+    {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
     {
       "path": "content/mods/max-health-fix.json",
       "sha1": "aaeeb2a3d6c5157ad4c1bafade999473e37dd1c1"
+    },
+    {
+      "path": "content/mods/midnightlib.json",
+      "sha1": "40208de1db6422d430f4f3f301f7d60bda22f361"
     },
     {
       "path": "content/mods/modelfix.json",
@@ -119,6 +159,14 @@
     {
       "path": "content/mods/mouse-tweaks.json",
       "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
+    },
+    {
+      "path": "content/mods/nbt-autocomplete.json",
+      "sha1": "3c82a68766acbab8a0b795c189b4efcec061ca4e"
+    },
+    {
+      "path": "content/mods/nitrogen_rbn.json",
+      "sha1": "630936f8f26989fe990e8e85b4f4d9a9d0d6d3ca"
     },
     {
       "path": "content/mods/no-see-no-tick.json",
@@ -137,16 +185,28 @@
       "sha1": "4659dc293378d57601861621959c77c9a6d7b216"
     },
     {
+      "path": "content/mods/questlog.json",
+      "sha1": "c03d320e20a5e32b19dac8c73f1f254af2beec18"
+    },
+    {
+      "path": "content/mods/rhino.json",
+      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
+    },
+    {
+      "path": "content/mods/sable.json",
+      "sha1": "477766a23605c48939d6b5ee2086e596d4769b85"
+    },
+    {
       "path": "content/mods/saturn.json",
       "sha1": "ea5bc83bb340d86ba7612749f685deba95f880d9"
     },
     {
-      "path": "content/mods/scalablelux.json",
-      "sha1": "090eb31d1f3bf8ff6a73f6ecc4de3702a061910e"
-    },
-    {
       "path": "content/mods/selene.json",
       "sha1": "361d7d9978d6fbb92550b3e6f881b05a3b079e31"
+    },
+    {
+      "path": "content/mods/sinytra-connector.json",
+      "sha1": "0b8d1786ea1640c7a2b8918de5b0788a0344834e"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -154,7 +214,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "7d7d7755fbf5ced9f68a026e276597ab3c264542"
+      "sha1": "0c198fd9c08398b5abcc10249dbb7ad8b09caca9"
     },
     {
       "path": "content/mods/spark.json",
@@ -167,6 +227,10 @@
     {
       "path": "content/mods/txnilib.json",
       "sha1": "ad910c3367d4785f9e80445ead85b15ec6768a51"
+    },
+    {
+      "path": "content/mods/wayfinder_rbn.json",
+      "sha1": "5d401d69c631af1944a60900ee20e4dc0e415991"
     },
     {
       "path": "overrides/config/fml.toml",

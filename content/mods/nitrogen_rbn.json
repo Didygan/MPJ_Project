@@ -1,0 +1,25 @@
+{
+  "name": "Nitrogen",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MmlhYsbf",
+      "slug": "nitrogen_rbn",
+      "versionId": "ZR5amuNb",
+      "versionNumber": "1.7.9-1.21.1",
+      "filename": "nitrogen-1.7.9-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MmlhYsbf/versions/ZR5amuNb/nitrogen-1.7.9-1.21.1.jar",
+      "sha1": "8730d5b541227ff05def8e18d96de1d347d7c498",
+      "sha512": "8f02d47dd78f1b8523bbc373c0056889e2fc6cb8c84270e464132d6e8825f7b1d8aebe9ef60b2818df59860c4875fbec82f1b79c5b0190d5d023bcc7663931ba",
+      "fileSize": 5697470
+    }
+  },
+  "dependents": [
+    "L6vc46Id"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

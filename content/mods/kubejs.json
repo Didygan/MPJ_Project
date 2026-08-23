@@ -1,0 +1,22 @@
+{
+  "name": "KubeJS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "238086",
+      "slug": "kubejs",
+      "versionId": "8715199",
+      "versionNumber": "KubeJS NeoForge 2101.7.2-build.374",
+      "filename": "kubejs-neoforge-2101.7.2-build.374.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8715/199/kubejs-neoforge-2101.7.2-build.374.jar",
+      "sha1": "d675ea2cfdf3286e996dcad5a27deba6a04bc3a2",
+      "fileSize": 2292654
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Connector Extras",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "913445",
+      "slug": "connector-extras",
+      "versionId": "5618470",
+      "versionNumber": "ConnectorExtras 1.12.1+1.21.1",
+      "filename": "ConnectorExtras-1.12.1+1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5618/470/ConnectorExtras-1.12.1%2b1.21.1.jar",
+      "sha1": "8ea07df55b26c8343d06df77936505a23e0d2140",
+      "fileSize": 86284
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

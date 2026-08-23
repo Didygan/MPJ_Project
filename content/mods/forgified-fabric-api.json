@@ -1,0 +1,24 @@
+{
+  "name": "Forgified Fabric API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "889079",
+      "slug": "forgified-fabric-api",
+      "versionId": "8680346",
+      "versionNumber": "[1.21.1] Forgified Fabric API 0.116.15+2.3.4+1.21.1",
+      "filename": "forgified-fabric-api-0.116.15+2.3.4+1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8680/346/forgified-fabric-api-0.116.15%2b2.3.4%2b1.21.1.jar",
+      "sha1": "ae8463d59cab8218ea68da5608d2af4a86e9b169",
+      "fileSize": 5613423
+    }
+  },
+  "dependents": [
+    "890127"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

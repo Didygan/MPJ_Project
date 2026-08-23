@@ -1,0 +1,23 @@
+{
+  "name": "Wayfinder",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "L6vc46Id",
+      "slug": "wayfinder_rbn",
+      "versionId": "BlI583el",
+      "versionNumber": "2.3-fabric.1.21.1",
+      "filename": "wayfinder-2.3-fabric.1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/L6vc46Id/versions/BlI583el/wayfinder-2.3-fabric.1.21.1.jar",
+      "sha1": "80284c9940a50f5aadb78a413de80ccb396e3b51",
+      "sha512": "5700fb73728fed0c5f3a0813cd6d6817256252f6530e58a400dbb4e5a5cf2d3ca4dba04aa7dbb3e64df1653b5630720fec6a4a40046f07d561367d4320739347",
+      "fileSize": 891609
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

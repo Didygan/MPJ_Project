@@ -1,0 +1,23 @@
+{
+  "name": "Grassier Grass",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3jCB9cn2",
+      "slug": "grassier-grass",
+      "versionId": "hWKkBn3u",
+      "versionNumber": "1.4.5",
+      "filename": "grassiergrass-neoforge-1.4.5+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3jCB9cn2/versions/hWKkBn3u/grassiergrass-neoforge-1.4.5%2Bmc1.21.1.jar",
+      "sha1": "679fa7d59ef34fc9a28534d6d9f2b227c9033719",
+      "sha512": "5e1085f8039b9e42ce9a11ce3bdfc668e14f86b7b8240940cc4c922640af1dcf0c294a2a5853194fd6625b2f6f3fe8029f6cf405abb9ab496e274971bb36b0fd",
+      "fileSize": 2350729
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
