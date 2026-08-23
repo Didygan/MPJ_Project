@@ -1,0 +1,25 @@
+{
+  "name": "Sodium",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "394468",
+      "slug": "sodium",
+      "versionId": "8382328",
+      "versionNumber": "Sodium 0.8.12 for NeoForge 1.21.1",
+      "filename": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8382/328/sodium-neoforge-0.8.12%2bmc1.21.1.jar",
+      "sha1": "762251ab3d6825d5accfd89c3f02f1145376105e",
+      "fileSize": 1291418
+    }
+  },
+  "dependents": [
+    "1156128",
+    "1434533"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FastFurnace",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "299540",
+      "slug": "fastfurnace",
+      "versionId": "6751551",
+      "versionNumber": "FastFurnace-1.21.1-9.0.1.jar",
+      "filename": "FastFurnace-1.21.1-9.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6751/551/FastFurnace-1.21.1-9.0.1.jar",
+      "sha1": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3",
+      "fileSize": 4623
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

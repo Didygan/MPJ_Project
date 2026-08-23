@@ -1,0 +1,22 @@
+{
+  "name": "Sodium Add-on: Substrate",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1156128",
+      "slug": "substrate-add-on",
+      "versionId": "7616253",
+      "versionNumber": "[NeoForge 1.21.1] Substrate 4.2",
+      "filename": "substrate-4.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7616/253/substrate-4.2+1.21.1-neoforge.jar",
+      "sha1": "ed7d1b4e888f5db516da0352d6dd0ad270495e8c",
+      "fileSize": 81314
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fast Async World Save[Forge/Neo/Fabric]",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "951499",
+      "slug": "fast-async-world-save-forge-fabric",
+      "versionId": "6935204",
+      "versionNumber": "fastasyncworldsave-1.21-2.6.jar",
+      "filename": "fastasyncworldsave-1.21-2.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6935/204/fastasyncworldsave-1.21-2.6.jar",
+      "sha1": "87e019715314631f2c8288cf7c73a52a61b2d61b",
+      "fileSize": 11050
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

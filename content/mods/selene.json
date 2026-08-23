@@ -1,0 +1,24 @@
+{
+  "name": "Moonlight Lib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "499980",
+      "slug": "selene",
+      "versionId": "8682854",
+      "versionNumber": "moonlight-1.21.1-3.4.1-neoforge",
+      "filename": "moonlight-1.21.1-3.4.1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8682/854/moonlight-1.21.1-3.4.1-neoforge.jar",
+      "sha1": "9d7d5b0c60c916bec2a514d387c220c2a73753be",
+      "fileSize": 2167608
+    }
+  },
+  "dependents": [
+    "883287"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

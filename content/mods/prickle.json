@@ -1,0 +1,25 @@
+{
+  "name": "Prickle",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1023259",
+      "slug": "prickle",
+      "versionId": "6961457",
+      "versionNumber": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+      "fileSize": 84812
+    }
+  },
+  "dependents": [
+    "280510",
+    "492246"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

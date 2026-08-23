@@ -1,0 +1,23 @@
+{
+  "name": "ImmediatelyFast",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5ZwdcRci",
+      "slug": "immediatelyfast",
+      "versionId": "B2MHnfkW",
+      "versionNumber": "1.6.12+1.21.1-neoforge",
+      "filename": "ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/B2MHnfkW/ImmediatelyFast-NeoForge-1.6.12%2B1.21.1.jar",
+      "sha1": "c9522e369d76885c7c6682f1c852cd8f9bfb6f78",
+      "sha512": "853c8746d0b28f97cd3eb7e9e55967f98d6c358f609b9db2c4d2d7afee76728d827bad8f3d73d6a0b7c5e36a820779f299cdcda70191e3832d5bd0f2cf034d56",
+      "fileSize": 362397
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

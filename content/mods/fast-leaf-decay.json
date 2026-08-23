@@ -1,0 +1,22 @@
+{
+  "name": "Fast Leaf Decay",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "230976",
+      "slug": "fast-leaf-decay",
+      "versionId": "5849090",
+      "versionNumber": "FastLeafDecay-35.jar",
+      "filename": "fastleafdecay-35.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5849/90/fastleafdecay-35.jar",
+      "sha1": "589f05dcd58d3708cee9046b23fe11fb81a25d2e",
+      "fileSize": 9511
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

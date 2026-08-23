@@ -1,0 +1,22 @@
+{
+  "name": "ScalableLux",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1055925",
+      "slug": "scalablelux",
+      "versionId": "6952385",
+      "versionNumber": "0.1.0.1 for neoforge 1.21.1",
+      "filename": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6952/385/ScalableLux-0.1.0.1%2bneoforge.1cb1e91-all.jar",
+      "sha1": "d087823f3aec9e1ba5d8ec9b2888c35f95c06d4e",
+      "fileSize": 176443
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

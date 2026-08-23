@@ -1,0 +1,24 @@
+{
+  "name": "TxniLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1104882",
+      "slug": "txnilib",
+      "versionId": "6533725",
+      "versionNumber": "TxniLib Neoforge 1.0.24 for 1.21.1",
+      "filename": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6533/725/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "sha1": "17b1bbb96e922e683a1807a2e7bece603fdc491d",
+      "fileSize": 6276522
+    }
+  },
+  "dependents": [
+    "1204890"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

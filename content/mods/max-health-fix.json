@@ -1,0 +1,22 @@
+{
+  "name": "Max Health Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "492246",
+      "slug": "max-health-fix",
+      "versionId": "5824111",
+      "versionNumber": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+      "filename": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5824/111/maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+      "sha1": "56243df705c150933642f7108b0d882322147d63",
+      "fileSize": 20034
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

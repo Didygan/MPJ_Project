@@ -1,0 +1,23 @@
+{
+  "name": "Saturn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2eT495vq",
+      "slug": "saturn",
+      "versionId": "V5lIEjKs",
+      "versionNumber": "mc1.21.1-0.1.5",
+      "filename": "saturn-mc1.21.1-0.1.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2eT495vq/versions/V5lIEjKs/saturn-mc1.21.1-0.1.5.jar",
+      "sha1": "e5b9c7e6a7856302c6b078255e6b90b5cc1ec0b0",
+      "sha512": "e328d85d449bf61a0ba90e7ca801db0aea4ef4e1f8fbdc0cb774d21892bd65ae3f1546aa78cb8fdd0acf2361653c1e205aec823233e089de9d067e67b6fd4e8f",
+      "fileSize": 84147
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

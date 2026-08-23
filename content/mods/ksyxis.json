@@ -1,0 +1,22 @@
+{
+  "name": "Ksyxis",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "537533",
+      "slug": "ksyxis",
+      "versionId": "7979747",
+      "versionNumber": "Ksyxis 1.4.3",
+      "filename": "Ksyxis-1.4.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7979/747/Ksyxis-1.4.3.jar",
+      "sha1": "6f4b2ea7827da8136bdf436457a2ba3fcdb2120e",
+      "fileSize": 26968
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

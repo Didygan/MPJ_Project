@@ -1,0 +1,22 @@
+{
+  "name": "FastWorkbench",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "288885",
+      "slug": "fastworkbench",
+      "versionId": "6751534",
+      "versionNumber": "FastWorkbench-1.21.1-9.1.3.jar",
+      "filename": "FastWorkbench-1.21.1-9.1.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6751/534/FastWorkbench-1.21.1-9.1.3.jar",
+      "sha1": "7343b63ded70c0546811c768118d16d3a86418ee",
+      "fileSize": 28635
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

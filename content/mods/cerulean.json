@@ -1,0 +1,22 @@
+{
+  "name": "Cerulean",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1204890",
+      "slug": "cerulean",
+      "versionId": "6489711",
+      "versionNumber": "Cerulean Neoforge 1.0.0 for 1.21.1",
+      "filename": "cerulean-neoforge-1.0.0-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6489/711/cerulean-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "f810a8ab7efd707500da4f153a5a64843edf4aac",
+      "fileSize": 340526
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

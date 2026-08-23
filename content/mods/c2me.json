@@ -1,0 +1,22 @@
+{
+  "name": "Concurrent Chunk Management Engine",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "533097",
+      "slug": "c2me",
+      "versionId": "8646869",
+      "versionNumber": "0.4.0-alpha.0.120 backport devbuild for 1.21.1",
+      "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8646/869/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
+      "sha1": "f06c116c1b447a2cdb3162d6c9ec54c9a422b48d",
+      "fileSize": 3708380
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

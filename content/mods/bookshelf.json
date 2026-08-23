@@ -1,0 +1,25 @@
+{
+  "name": "Bookshelf",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "228525",
+      "slug": "bookshelf",
+      "versionId": "7606240",
+      "versionNumber": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+      "fileSize": 328813
+    }
+  },
+  "dependents": [
+    "280510",
+    "492246"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

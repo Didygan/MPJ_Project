@@ -1,0 +1,22 @@
+{
+  "name": "No See, No Tick",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "833405",
+      "slug": "no-see-no-tick",
+      "versionId": "5648916",
+      "versionNumber": "No See, No Tick - 2.0.0 MC 1.21",
+      "filename": "noseenotick-2.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5648/916/noseenotick-2.0.0.jar",
+      "sha1": "ad89cbdbd0c7d2a2932a8da336323aba27d0771f",
+      "fileSize": 145823
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

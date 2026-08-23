@@ -1,0 +1,22 @@
+{
+  "name": "Ixeris",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1285307",
+      "slug": "ixeris",
+      "versionId": "8651191",
+      "versionNumber": "Ixeris 4.6.5+1.21.1-neoforge",
+      "filename": "Ixeris-4.6.5+1.21.1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8651/191/Ixeris-4.6.5%2b1.21.1-neoforge.jar",
+      "sha1": "390d3b9f0486d6637109683913f22a958d870af2",
+      "fileSize": 685836
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

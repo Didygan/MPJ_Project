@@ -1,0 +1,24 @@
+{
+  "name": "Fzzy Config",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1005914",
+      "slug": "fzzy-config",
+      "versionId": "7568897",
+      "versionNumber": "fzzy_config-0.7.6+1.21+neoforge",
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2b1.21%2bneoforge.jar",
+      "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+      "fileSize": 2369895
+    }
+  },
+  "dependents": [
+    "985426"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
