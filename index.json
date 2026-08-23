@@ -9,6 +9,10 @@
       "sha1": "7a7c870aa5cd3917a46dcb53e8d311d8e9836020"
     },
     {
+      "path": "content/mods/asyncparticles.json",
+      "sha1": "2ed8f535813b20aa2df953817fd3720babf20521"
+    },
+    {
       "path": "content/mods/attributefix.json",
       "sha1": "a3efb8f0c469cfda5b30346a01206dbc5dbb2dcd"
     },
@@ -31,6 +35,10 @@
     {
       "path": "content/mods/cerulean.json",
       "sha1": "ab3c5b0a2ca2f24eab293f826b788801b00c1c82"
+    },
+    {
+      "path": "content/mods/clear-void.json",
+      "sha1": "6399bdbb2c23adabd714a68632d02b39c3b2f8f7"
     },
     {
       "path": "content/mods/cupboard.json",
@@ -73,10 +81,6 @@
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
     {
-      "path": "content/mods/fzzy-config.json",
-      "sha1": "f23731e1be605f0704187cf871e11c778e3081d7"
-    },
-    {
       "path": "content/mods/immediatelyfast.json",
       "sha1": "2e891fc84fa2516404dec087af48efcb4898c49f"
     },
@@ -87,10 +91,6 @@
     {
       "path": "content/mods/ixeris.json",
       "sha1": "317b42df00bfab0a3b52ba3206d6a971f526bd57"
-    },
-    {
-      "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "e0fff9f950214bbe20fa8ca22549793d3a1c56e2"
     },
     {
       "path": "content/mods/krypton-fnp.json",
@@ -129,10 +129,6 @@
       "sha1": "14da471aa6d187985e9289bb7ef79551f2a02ff2"
     },
     {
-      "path": "content/mods/particle-core.json",
-      "sha1": "32db381962f799a1f64dbb662ce43084e72694c0"
-    },
-    {
       "path": "content/mods/placebo.json",
       "sha1": "a8fd3d404729ae986f05659387805f0a2f398c36"
     },
@@ -146,15 +142,11 @@
     },
     {
       "path": "content/mods/scalablelux.json",
-      "sha1": "e5c0c74f14f958df4a2255e394f99abd475cf83c"
+      "sha1": "090eb31d1f3bf8ff6a73f6ecc4de3702a061910e"
     },
     {
       "path": "content/mods/selene.json",
       "sha1": "361d7d9978d6fbb92550b3e6f881b05a3b079e31"
-    },
-    {
-      "path": "content/mods/smooth-boot.json",
-      "sha1": "d2929b770eb0dc4fddb05262e3d324c1c6d800bd"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -162,7 +154,11 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "0c198fd9c08398b5abcc10249dbb7ad8b09caca9"
+      "sha1": "7d7d7755fbf5ced9f68a026e276597ab3c264542"
+    },
+    {
+      "path": "content/mods/spark.json",
+      "sha1": "5ebefabaaea0fd15e63faad9ba3a9c341c58e3ff"
     },
     {
       "path": "content/mods/substrate-add-on.json",

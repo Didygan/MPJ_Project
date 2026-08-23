@@ -1,0 +1,23 @@
+{
+  "name": "Clear Void",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xsFn8GIq",
+      "slug": "clear-void",
+      "versionId": "kNr2s3Ct",
+      "versionNumber": "1.3.1",
+      "filename": "clearvoid-mc1.21.1-1.3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xsFn8GIq/versions/kNr2s3Ct/clearvoid-mc1.21.1-1.3.1.jar",
+      "sha1": "5223ec7cccf1d7f4121e60295ac076f9e59aeee1",
+      "sha512": "762705e4c8d3c08cc96a0a00f616b502fbfc9a995870f40966ef61a636edd3a61a34c11ecf057c5a913867844f0c779fa91daa745979508802430fe086283d37",
+      "fileSize": 82482
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

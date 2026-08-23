@@ -1,0 +1,22 @@
+{
+  "name": "spark",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "361579",
+      "slug": "spark",
+      "versionId": "6225208",
+      "versionNumber": "1.10.124 (NeoForge 1.21.1)",
+      "filename": "spark-1.10.124-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+      "fileSize": 3642581
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
