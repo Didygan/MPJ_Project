@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6"
+    },
+    {
+      "path": "overrides/config/neoforge-client.toml",
+      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed"
+    },
+    {
+      "path": "overrides/config/neoforge-common.toml",
+      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "c7fae4ba31b3a7942189d1c3669a4e2af4d6a718"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "3ccb15104d3e08f6805d9d368472920b560b7bd8"
+    }
+  ]
+}
