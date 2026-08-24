@@ -1,0 +1,22 @@
+{
+  "name": "Global Packs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "317134",
+      "slug": "globalpacks",
+      "versionId": "6634585",
+      "versionNumber": "v21.0.6 - NeoForge - 1.21-1.21.1",
+      "filename": "globalpacks-neoforge-1.21.1-21.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6634/585/globalpacks-neoforge-1.21.1-21.0.6.jar",
+      "sha1": "55cf667b16b81df9b8f7fead042cf2f732b21b85",
+      "fileSize": 27239
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

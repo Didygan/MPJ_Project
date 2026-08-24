@@ -1,0 +1,24 @@
+{
+  "name": "YetAnotherConfigLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "667299",
+      "slug": "yacl",
+      "versionId": "7437845",
+      "versionNumber": "3.8.2 for neoforge 1.21.1",
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
+      "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+      "fileSize": 1118651
+    }
+  },
+  "dependents": [
+    "1087551"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

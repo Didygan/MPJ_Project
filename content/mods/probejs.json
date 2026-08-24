@@ -1,0 +1,22 @@
+{
+  "name": "ProbeJS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "585406",
+      "slug": "probejs",
+      "versionId": "8304356",
+      "versionNumber": "ProbeJS-8.0.3.jar",
+      "filename": "ProbeJS-8.0.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8304/356/ProbeJS-8.0.3.jar",
+      "sha1": "f0529482eff9596fa01de8a34abdce50529bdf55",
+      "fileSize": 3405057
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

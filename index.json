@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "db199d3303fda0aece729cfc6fee3de5e11b0f37"
+      "sha1": "2e4183de2c207491e64eb1f4734689b36a1b9b69"
     },
     {
       "path": "content/mods/connector-extras.json",
@@ -107,6 +107,10 @@
     {
       "path": "content/mods/forgified-fabric-api.json",
       "sha1": "646d79a32a8bffe572356506f68981d83a7e70bd"
+    },
+    {
+      "path": "content/mods/globalpacks.json",
+      "sha1": "48b5a31742dffe6d73b1190fa34797c58cc8872b"
     },
     {
       "path": "content/mods/grassier-grass.json",
@@ -185,6 +189,10 @@
       "sha1": "4659dc293378d57601861621959c77c9a6d7b216"
     },
     {
+      "path": "content/mods/probejs.json",
+      "sha1": "f7c32d5b6ec4a94982be887b85bb9f5f1188745f"
+    },
+    {
       "path": "content/mods/questlog.json",
       "sha1": "c03d320e20a5e32b19dac8c73f1f254af2beec18"
     },
@@ -221,8 +229,16 @@
       "sha1": "5ebefabaaea0fd15e63faad9ba3a9c341c58e3ff"
     },
     {
+      "path": "content/mods/structurify.json",
+      "sha1": "eebbbcef4dcc23955b40f277af420da0a43a2e9f"
+    },
+    {
       "path": "content/mods/substrate-add-on.json",
       "sha1": "1e2e36692a3bc2fd593de27d1f6a5f2fea08aec7"
+    },
+    {
+      "path": "content/mods/tide.json",
+      "sha1": "440b06428221d878adc11f8024db699933bf0b9c"
     },
     {
       "path": "content/mods/txnilib.json",
@@ -231,6 +247,14 @@
     {
       "path": "content/mods/wayfinder_rbn.json",
       "sha1": "5d401d69c631af1944a60900ee20e4dc0e415991"
+    },
+    {
+      "path": "content/mods/yacl.json",
+      "sha1": "a4a5766ce6419519cb156c2e48bcc8cbd20e671c"
+    },
+    {
+      "path": "overrides/config/featurify.json",
+      "sha1": "9ac4576ac922c957962a663085d55060dee15317"
     },
     {
       "path": "overrides/config/fml.toml",
@@ -245,12 +269,24 @@
       "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
     },
     {
+      "path": "overrides/config/structurify.json",
+      "sha1": "71716f5fbc294fab590cb9f7ebdaf94ba3f54896"
+    },
+    {
+      "path": "overrides/datapacks/Create_Simulated_Overworld_End_Sea.zip",
+      "sha1": "87ca9c374c38ecadf91ff80b22d5f85e8f5ff92b"
+    },
+    {
+      "path": "overrides/datapacks/Overworld_End_Sky.zip",
+      "sha1": "e20b0bfedfa3c98189edeec826b9f2d626765f1e"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "c7fae4ba31b3a7942189d1c3669a4e2af4d6a718"
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "3ccb15104d3e08f6805d9d368472920b560b7bd8"
+      "sha1": "a107d82f66d03275823db266d1a011f589536a0f"
     }
   ]
 }

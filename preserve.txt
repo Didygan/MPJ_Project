@@ -4,3 +4,4 @@
 #
 # config/somemod.toml
 # config/somemod/**
+datapacks/**

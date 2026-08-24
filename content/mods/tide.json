@@ -1,0 +1,22 @@
+{
+  "name": "Tide 2",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "884685",
+      "slug": "tide",
+      "versionId": "8570111",
+      "versionNumber": "Tide 2.1.1 (NeoForge 1.21.1)",
+      "filename": "tide-neoforge-1.21.1-2.1.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8570/111/tide-neoforge-1.21.1-2.1.1.jar",
+      "sha1": "6916fb787c0c3da859166b57a9aaac287d7ed144",
+      "fileSize": 2155309
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

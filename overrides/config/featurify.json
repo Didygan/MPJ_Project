@@ -1,0 +1,86 @@
+{
+  "config_version": "2.0.6",
+  "config_datetime": "2026-08-24_21-26-23",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [],
+  "biomes": [
+    {
+      "name": "minecraft:badlands",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:bamboo_jungle",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:basalt_deltas",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:birch_forest",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:cherry_grove",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:cold_ocean",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:crimson_forest",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:dark_forest",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:deep_cold_ocean",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:deep_dark",
+      "replacement_biome": "minecraft:deep_cold_ocean"
+    },
+    {
+      "name": "minecraft:deep_frozen_ocean",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:deep_ocean",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:desert",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:end_barrens",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:eroded_badlands",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:flower_forest",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:forest",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:ocean",
+      "replacement_biome": "minecraft:deep_ocean"
+    },
+    {
+      "name": "minecraft:wooded_badlands",
+      "replacement_biome": "minecraft:deep_ocean"
+    }
+  ]
+}
