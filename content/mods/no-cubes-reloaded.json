@@ -1,0 +1,22 @@
+{
+  "name": "No Cubes Reloaded",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "561868",
+      "slug": "no-cubes-reloaded",
+      "versionId": "7277447",
+      "versionNumber": "[NeoForge 1.21.1] NoCubesReloaded 1.0.10",
+      "filename": "NoCubesReloaded-neoforge-1.21-1.0.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7277/447/NoCubesReloaded-neoforge-1.21-1.0.10.jar",
+      "sha1": "cc46828854ac1b984f9715e6785d88e3c8a0a2aa",
+      "fileSize": 125812
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

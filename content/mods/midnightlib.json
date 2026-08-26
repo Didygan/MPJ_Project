@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "codAaoxh",
       "slug": "midnightlib",
-      "versionId": "as2ZKoB1",
-      "versionNumber": "1.9.3+1.21.1-fabric",
-      "filename": "midnightlib-fabric-1.9.3+1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/codAaoxh/versions/as2ZKoB1/midnightlib-fabric-1.9.3%2B1.21.1.jar",
-      "sha1": "6595a90351e827b99b36fa2c6ef1dde1a4c8fdf1",
-      "sha512": "bfab6bec9dfe4800237861df4d1749cc42770a81599d7a4f2c3dd83efca91347faa113240c63e20c1135593cce6dbcde517512083c4dfd5efab12df0f4f95e69",
-      "fileSize": 58781
+      "versionId": "6Gv5jvTB",
+      "versionNumber": "1.9.3+1.21.1-neoforge",
+      "filename": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/codAaoxh/versions/6Gv5jvTB/midnightlib-neoforge-1.9.3%2B1.21.1.jar",
+      "sha1": "e0c9a1ffc6a53435029a23d9c110c44620595469",
+      "sha512": "5913e7e8ebbffb72323514aa5bedce19056884416d0a33b38af1761ee74cfa600996cde9bd7d709ee2158476faa2e735b2e6ea6107296d471d2c5b7b35d9da6c",
+      "fileSize": 61217
     }
   },
   "dependents": [

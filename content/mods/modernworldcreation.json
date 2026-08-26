@@ -1,0 +1,22 @@
+{
+  "name": "Modern World Creation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "485245",
+      "slug": "modernworldcreation",
+      "versionId": "6119761",
+      "versionNumber": "[NeoForge] v2.0.1 MC 1.21.1",
+      "filename": "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6119/761/modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar",
+      "sha1": "169c22905fe7568aae14e285fac1173383dcd1ff",
+      "fileSize": 498164
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

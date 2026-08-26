@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/asyncparticles.json",
-      "sha1": "2ed8f535813b20aa2df953817fd3720babf20521"
+      "sha1": "c7eb4caa134ddcdfe32758b330782eb12be8dea0"
     },
     {
       "path": "content/mods/attributefix.json",
@@ -19,6 +19,10 @@
     {
       "path": "content/mods/badoptimizations.json",
       "sha1": "d0f65ef836e05cb4d674b6205d369d2220ff1283"
+    },
+    {
+      "path": "content/mods/balm.json",
+      "sha1": "94d7a4b17cbeaa07cc5406e253a3a6d416814652"
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
@@ -50,7 +54,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "2e4183de2c207491e64eb1f4734689b36a1b9b69"
+      "sha1": "126e976bf5c012dcb3048aaafea4bc93dc39a1a7"
     },
     {
       "path": "content/mods/connector-extras.json",
@@ -75,6 +79,10 @@
     {
       "path": "content/mods/entitytexturefeatures.json",
       "sha1": "32afb6f09dabee67be9b342fead662361b3b9d9b"
+    },
+    {
+      "path": "content/mods/fancymenu.json",
+      "sha1": "97883a9bba4ef3f64fa4377243f359bb33164971"
     },
     {
       "path": "content/mods/fast-async-world-save-forge-fabric.json",
@@ -109,12 +117,16 @@
       "sha1": "646d79a32a8bffe572356506f68981d83a7e70bd"
     },
     {
-      "path": "content/mods/globalpacks.json",
-      "sha1": "48b5a31742dffe6d73b1190fa34797c58cc8872b"
+      "path": "content/mods/forgiving-void.json",
+      "sha1": "52b8444b2208990065e719f7cdab94995fadf86c"
     },
     {
-      "path": "content/mods/grassier-grass.json",
-      "sha1": "ffa76a1bc9754eba2f15d991f95f67b4baa15db9"
+      "path": "content/mods/global-gamerules--neoforge-.json",
+      "sha1": "94ab4f7e265623e6058ad5c8451d0d5aa9468eea"
+    },
+    {
+      "path": "content/mods/globalpacks.json",
+      "sha1": "48b5a31742dffe6d73b1190fa34797c58cc8872b"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -125,8 +137,16 @@
       "sha1": "ef0379bb6e0f8a224626c5c67570d61e03704a21"
     },
     {
+      "path": "content/mods/iris.json",
+      "sha1": "fd3bd04e5b98187bcd19b96d3a9062cd1f560643"
+    },
+    {
       "path": "content/mods/ixeris.json",
       "sha1": "317b42df00bfab0a3b52ba3206d6a971f526bd57"
+    },
+    {
+      "path": "content/mods/konkrete.json",
+      "sha1": "cb406ad36724ddc5c192ccdc72da5589a9b0a830"
     },
     {
       "path": "content/mods/krypton-fnp.json",
@@ -149,8 +169,12 @@
       "sha1": "aaeeb2a3d6c5157ad4c1bafade999473e37dd1c1"
     },
     {
+      "path": "content/mods/melody.json",
+      "sha1": "a1a08674fbb886f9afbe379f28e23258dcde0950"
+    },
+    {
       "path": "content/mods/midnightlib.json",
-      "sha1": "40208de1db6422d430f4f3f301f7d60bda22f361"
+      "sha1": "62027788e094ce3b0751bea0839db22633f9c01e"
     },
     {
       "path": "content/mods/modelfix.json",
@@ -159,6 +183,10 @@
     {
       "path": "content/mods/modernfix.json",
       "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
+    },
+    {
+      "path": "content/mods/modernworldcreation.json",
+      "sha1": "edd8f81fd701bcd9d8ba6e4a4360a5a76a65c2ca"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -173,6 +201,10 @@
       "sha1": "630936f8f26989fe990e8e85b4f4d9a9d0d6d3ca"
     },
     {
+      "path": "content/mods/no-cubes-reloaded.json",
+      "sha1": "081d89c178c03705d5523555eeafffffdc92a58f"
+    },
+    {
       "path": "content/mods/no-see-no-tick.json",
       "sha1": "1b07765c66da7156795a334bdb090f57e6d750e1"
     },
@@ -182,7 +214,7 @@
     },
     {
       "path": "content/mods/placebo.json",
-      "sha1": "a8fd3d404729ae986f05659387805f0a2f398c36"
+      "sha1": "4018e356f2dc3335dfd69e077a7ada6122b81d9d"
     },
     {
       "path": "content/mods/prickle.json",
@@ -238,11 +270,23 @@
     },
     {
       "path": "content/mods/tide.json",
-      "sha1": "440b06428221d878adc11f8024db699933bf0b9c"
+      "sha1": "f86c1cff7b71f9f4c751ce8d2993aabf9bc58dec"
+    },
+    {
+      "path": "content/mods/toast-control.json",
+      "sha1": "705eaef17a2bc807b1b7723db5ade59395dd1cb6"
     },
     {
       "path": "content/mods/txnilib.json",
       "sha1": "ad910c3367d4785f9e80445ead85b15ec6768a51"
+    },
+    {
+      "path": "content/mods/watermedia-binaries.json",
+      "sha1": "7b0323616126d964909ac6496fe0a0a95b8f3e4b"
+    },
+    {
+      "path": "content/mods/watermedia.json",
+      "sha1": "1d77601c4c336690e595652d9cf08878d939fe14"
     },
     {
       "path": "content/mods/wayfinder_rbn.json",
@@ -253,12 +297,184 @@
       "sha1": "a4a5766ce6419519cb156c2e48bcc8cbd20e671c"
     },
     {
+      "path": "content/mods/yeetus-experimentus.json",
+      "sha1": "8c529620a1db93fb263b95b3fd7dc455d1e98229"
+    },
+    {
+      "path": "content/resourcepacks/vintage.json",
+      "sha1": "223f4ddb4c2364c5fa410a83aec48c074fd73c69"
+    },
+    {
+      "path": "content/shaders/btb-back-to-basics.json",
+      "sha1": "02444fcc7e82af6936bb85b4f902ecb420282644"
+    },
+    {
+      "path": "content/shaders/psx-shader-nb.json",
+      "sha1": "ff6cf2448e694a8a2177a4beeda8930828757f6d"
+    },
+    {
+      "path": "content/shaders/psx.json",
+      "sha1": "48f259720d683dd3260566fc3902dde20d2959e5"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/click.ogg",
+      "sha1": "f079e31b702d461ad6d936b91bdac4c7a96a176c"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/exit.png",
+      "sha1": "2b62bf3b7193def57e390d67adb524557804c6b8"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/exit_s.png",
+      "sha1": "b36e996e603afbc449137d958eb42c2b70d907ac"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/logo1.png",
+      "sha1": "9cf1170cd2797806de4145e0eab23f5d33cb34fa"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/logo2.png",
+      "sha1": "7d5313d5ee4c4bae4bc0ed40460a760e8e4d3181"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/mods.png",
+      "sha1": "6d754aa5aa1614c89e1e117ca70f597947dbd9b7"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/mods_s.png",
+      "sha1": "e7825ba5f8c90a80982f65ac2ad790cf5d6c4036"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/sea.mp4",
+      "sha1": "2b026a6f09561bc019b33266310d77399ed01c15"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/settings.png",
+      "sha1": "3496ad5cb08e6844f7de3039b3087d0a4e50f96d"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/settings_s.png",
+      "sha1": "ffcf25d95c32c2415c8b196371086cf10d30e240"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/world_a.apng",
+      "sha1": "475964b22f1bde861900cc1650d971bae01bb58d"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/world_a.gif",
+      "sha1": "f302f8bef741bd7020fa5e7c607ef953f08aab58"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/world_a1.png",
+      "sha1": "13dccbd58bf81c9e3f65d09d73be6bf6bdbab452"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/world_s.png",
+      "sha1": "8c74de905e57aa78f05fcfe00b2d806f488d97a6"
+    },
+    {
+      "path": "overrides/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "069630a4fd4e885a80b3243809d80dae9f42c943"
+    },
+    {
+      "path": "overrides/config/fancymenu/customizablemenus.txt",
+      "sha1": "e6ffb2badf3910d3152b706e0e369cc6f3a84c42"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/false_sea_screen_layout.txt",
+      "sha1": "2cd3f188586b0334941d4a55df4d8a57ec829a35"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/sea_layout.txt",
+      "sha1": "3c89b934b9be60f40abc2b13ce4ea8cf733c5f22"
+    },
+    {
+      "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "de48775938e024dd18d89923ee56a2729f80e279"
+    },
+    {
+      "path": "overrides/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "overrides/config/fancymenu/normalized_scroll_screens.json",
+      "sha1": "6ad3c6a5be25d39a79b843381e8d2770194ea9dd"
+    },
+    {
+      "path": "overrides/config/fancymenu/options.txt",
+      "sha1": "509562c8decaa25164f7738b5c05e8013c7d1742"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+    },
+    {
+      "path": "overrides/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    {
+      "path": "overrides/config/fancymenu/video_element_controller_metas.json",
+      "sha1": "2e20cb4c6c2b6e125b2e68127d56935c4b48d8e8"
+    },
+    {
       "path": "overrides/config/featurify.json",
       "sha1": "9ac4576ac922c957962a663085d55060dee15317"
     },
     {
       "path": "overrides/config/fml.toml",
       "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6"
+    },
+    {
+      "path": "overrides/config/globalrules-common.toml",
+      "sha1": "df124622efd4075b77f9634bdd9e257054aa8b2f"
+    },
+    {
+      "path": "overrides/config/grassiergrass-client.toml",
+      "sha1": "40009d8c4cabe59abf8eff1e6ad0c0b00e009451"
+    },
+    {
+      "path": "overrides/config/immediatelyfast.json",
+      "sha1": "004645a67b103f8829a096bf2431efb4ee4738ec"
+    },
+    {
+      "path": "overrides/config/immersive_optimization.json",
+      "sha1": "7087f9ff0116afe5b7dc40e532c02955ef5149a3"
+    },
+    {
+      "path": "overrides/config/iris.properties",
+      "sha1": "4e29bd32de89c0aaa88d735dcf1fc0b760b73577"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -271,6 +487,10 @@
     {
       "path": "overrides/config/structurify.json",
       "sha1": "71716f5fbc294fab590cb9f7ebdaf94ba3f54896"
+    },
+    {
+      "path": "overrides/config/tide/tide_server.json",
+      "sha1": "82c64fc92e399c0cb56771f0c53501eea4c1c858"
     },
     {
       "path": "overrides/datapacks/Create_Simulated_Overworld_End_Sea.zip",

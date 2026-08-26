@@ -1,0 +1,23 @@
+{
+  "name": "Forgiving Void",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1vkzEZjE",
+      "slug": "forgiving-void",
+      "versionId": "dtmmErtS",
+      "versionNumber": "21.1.7+neoforge-1.21.1",
+      "filename": "forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1vkzEZjE/versions/dtmmErtS/forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+      "sha1": "8eb50b420793821cb1251f7a15b4f7c4a15ba2c2",
+      "sha512": "2f6f77d90ee117efbd14737a7ef58afce1c80074b0cec7045b2a6b5faf657577ebc3fb835d2e15b76936c8e83e7454fa1c6a2d96b7e0e042f51bcf82edce602c",
+      "fileSize": 76432
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

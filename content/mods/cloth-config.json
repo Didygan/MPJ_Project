@@ -1,24 +1,26 @@
 {
-  "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+  "name": "Cloth Config API",
   "side": "auto",
   "explicit": false,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "348521",
+    "modrinth": {
+      "id": "9s6osm5g",
       "slug": "cloth-config",
-      "versionId": "5729127",
-      "versionNumber": "[NeoForge 1.21] v15.0.140",
+      "versionId": "izKINKFg",
+      "versionNumber": "15.0.140+neoforge",
       "filename": "cloth-config-15.0.140-neoforge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
       "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
       "fileSize": 1163890
     }
   },
   "dependents": [
-    "884685"
+    "die1AF7i",
+    "ufQYCY6N"
   ],
-  "clientSide": "required",
-  "serverSide": "required"
+  "clientSide": "optional",
+  "serverSide": "optional"
 }

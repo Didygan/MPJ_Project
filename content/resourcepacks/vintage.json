@@ -1,0 +1,23 @@
+{
+  "name": "Vintage - Programmer Art Remade",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9kOsrTdF",
+      "slug": "vintage",
+      "versionId": "7MTmrJ8h",
+      "versionNumber": "3.1",
+      "filename": "Vintage.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/9kOsrTdF/versions/7MTmrJ8h/Vintage.zip",
+      "sha1": "6bd01b9a1721cf2548ae75f8b16f84b7e90655dc",
+      "sha512": "9fb8b1e3e0799a3759aeae1e38ecdbab348722d69cc6cf9ac630e45c8394824e44971d67ea6a4fc7ddf722ecaa961bfef8b69393b95e55bb8d9a0418f1bbf4a4",
+      "fileSize": 67453279
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

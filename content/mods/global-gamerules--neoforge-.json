@@ -1,0 +1,23 @@
+{
+  "name": "Global Gamerules (Neoforge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qD70hAI0",
+      "slug": "global-gamerules-(neoforge)",
+      "versionId": "Ome7yDWP",
+      "versionNumber": "1.21.1-1.0",
+      "filename": "globalrules-1.21.1-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qD70hAI0/versions/Ome7yDWP/globalrules-1.21.1-1.0.jar",
+      "sha1": "7085aa43f252135ea79fb22854a4183db9c3a49e",
+      "sha512": "91e1d64b928b4e71b5e087f28e6032f5243f42d037889af739fd83724445bc409522641dfe04d4957b4345f199147ae6941c5a066f150b08199f3248f2827bc2",
+      "fileSize": 25356
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PSX-Core Shader",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1414712",
+      "slug": "psx",
+      "versionId": "8443130",
+      "versionNumber": "PSX-Core Shader v0.1.6",
+      "filename": "PSX-Core v0.1.6.zip",
+      "downloadUrl": "https://edge.forgecdn.net/files/8443/130/PSX-Core%20v0.1.6.zip",
+      "sha1": "08f669f0f447cfd49d68d752db94e6a96576f9f7",
+      "fileSize": 14452
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

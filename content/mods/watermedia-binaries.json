@@ -1,0 +1,25 @@
+{
+  "name": "WATERMEDIA: Multimedia Binaries",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4997XcoK",
+      "slug": "watermedia-binaries",
+      "versionId": "fYWsOuBz",
+      "versionNumber": "3.0.0.6",
+      "filename": "watermedia_binaries-3.0.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4997XcoK/versions/fYWsOuBz/watermedia_binaries-3.0.0.6.jar",
+      "sha1": "8f132fc2fec0fe91a9a085c11088f0773da187fc",
+      "sha512": "45b5c1d645f75fb54de4d7e92b54f50372bd9d24c7543b57e6d32ba6b35ce346250bc871ba1a39c8b1988a423d2fca75a4806ae75af502d194455caabb470897",
+      "fileSize": 143725808
+    }
+  },
+  "dependents": [
+    "G922NeHS"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
