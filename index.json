@@ -462,7 +462,7 @@
     },
     {
       "path": "overrides/config/global_packs.toml",
-      "sha1": "d804356491f80fd8ca79ee05c35c3f30d65b1762"
+      "sha1": "7edd82e000afae8dfde715377f7bf0808c10088d"
     },
     {
       "path": "overrides/config/globalrules-common.toml",
@@ -482,7 +482,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "da626d85d1e5aff4541e618a5caff9e892558eca"
+      "sha1": "f12713dc162a36ebdd29e14543d42c83f774b7e6"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -491,6 +491,26 @@
     {
       "path": "overrides/config/neoforge-common.toml",
       "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
+    },
+    {
+      "path": "overrides/config/questlog-client.toml",
+      "sha1": "8724c43b4263b116d1e6306333ae27123eb108e2"
+    },
+    {
+      "path": "overrides/config/sodium-extra-options.json",
+      "sha1": "f1fb60c2ca7b5254b504f0f6ecb4edc2223dcd9b"
+    },
+    {
+      "path": "overrides/config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
+      "path": "overrides/config/sodium-options.json",
+      "sha1": "f68b27f51aa594095781a68988f7573f4803160f"
     },
     {
       "path": "overrides/config/structurify.json",
@@ -519,6 +539,10 @@
     {
       "path": "overrides/options.txt",
       "sha1": "a107d82f66d03275823db266d1a011f589536a0f"
+    },
+    {
+      "path": "overrides/resourcepacks/questlog_resprite.zip",
+      "sha1": "4b24a933819304d74cec179c4961f2fb4af07965"
     },
     {
       "path": "overrides/resourcepacks/tide_resprited.zip",
