@@ -137,6 +137,14 @@
       "sha1": "ef0379bb6e0f8a224626c5c67570d61e03704a21"
     },
     {
+      "path": "content/mods/insane-no-hunger.json",
+      "sha1": "708a939eec5e39ef4689c1dbe4cde8b2ffb31489"
+    },
+    {
+      "path": "content/mods/insanelib.json",
+      "sha1": "32e445bb40ba7102a2ca62f97bbf8baddf81b2ee"
+    },
+    {
       "path": "content/mods/iris.json",
       "sha1": "fd3bd04e5b98187bcd19b96d3a9062cd1f560643"
     },
@@ -254,7 +262,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "0c198fd9c08398b5abcc10249dbb7ad8b09caca9"
+      "sha1": "7d7d7755fbf5ced9f68a026e276597ab3c264542"
     },
     {
       "path": "content/mods/spark.json",
@@ -303,14 +311,6 @@
     {
       "path": "content/resourcepacks/vintage.json",
       "sha1": "223f4ddb4c2364c5fa410a83aec48c074fd73c69"
-    },
-    {
-      "path": "content/shaders/btb-back-to-basics.json",
-      "sha1": "02444fcc7e82af6936bb85b4f902ecb420282644"
-    },
-    {
-      "path": "content/shaders/psx-shader-nb.json",
-      "sha1": "ff6cf2448e694a8a2177a4beeda8930828757f6d"
     },
     {
       "path": "content/shaders/psx.json",
@@ -457,8 +457,16 @@
       "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6"
     },
     {
+      "path": "overrides/config/forgivingvoid-common.toml",
+      "sha1": "ab994f28a0f601faa29295512533db7a72237333"
+    },
+    {
+      "path": "overrides/config/global_packs.toml",
+      "sha1": "d804356491f80fd8ca79ee05c35c3f30d65b1762"
+    },
+    {
       "path": "overrides/config/globalrules-common.toml",
-      "sha1": "df124622efd4075b77f9634bdd9e257054aa8b2f"
+      "sha1": "e8c9d5e2d774c54220532817a92ae27e6c36b684"
     },
     {
       "path": "overrides/config/grassiergrass-client.toml",
@@ -474,7 +482,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "4e29bd32de89c0aaa88d735dcf1fc0b760b73577"
+      "sha1": "da626d85d1e5aff4541e618a5caff9e892558eca"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -490,7 +498,7 @@
     },
     {
       "path": "overrides/config/tide/tide_server.json",
-      "sha1": "82c64fc92e399c0cb56771f0c53501eea4c1c858"
+      "sha1": "01250c29b63ea3cd0b568b82420553151e4d9869"
     },
     {
       "path": "overrides/datapacks/Create_Simulated_Overworld_End_Sea.zip",
@@ -505,8 +513,16 @@
       "sha1": "c7fae4ba31b3a7942189d1c3669a4e2af4d6a718"
     },
     {
+      "path": "overrides/kubejs/server_scripts/main.js",
+      "sha1": "1df9a60d3b22921fca3d98b0fad88220c4d3902a"
+    },
+    {
       "path": "overrides/options.txt",
       "sha1": "a107d82f66d03275823db266d1a011f589536a0f"
+    },
+    {
+      "path": "overrides/resourcepacks/tide_resprited.zip",
+      "sha1": "8c69e2792a35ee7603502e4f3fcc1e26a4587548"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "name": "No Hunger",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1174259",
+      "slug": "insane-no-hunger",
+      "versionId": "8724274",
+      "versionNumber": "2.0.2.0",
+      "filename": "nohunger-2.0.2.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8724/274/nohunger-2.0.2.0.jar",
+      "sha1": "6ce92aa6327d096567d2d3303dcc5c100a3e723a",
+      "fileSize": 660182
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

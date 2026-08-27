@@ -1,0 +1,24 @@
+{
+  "name": "InsaneLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "465109",
+      "slug": "insanelib",
+      "versionId": "8723946",
+      "versionNumber": "2.4.29.0",
+      "filename": "insanelib-2.4.29.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8723/946/insanelib-2.4.29.0.jar",
+      "sha1": "05583137490ddf7de24b9845b323cbe165abe689",
+      "fileSize": 1190367
+    }
+  },
+  "dependents": [
+    "1174259"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

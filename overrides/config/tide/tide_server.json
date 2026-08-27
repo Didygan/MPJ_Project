@@ -7,7 +7,7 @@
       {
         "dimension": "minecraft:overworld",
         "type": "RELATIVE_TO_BOTTOM",
-        "height": 64
+        "height": 130
       },
       {
         "dimension": "minecraft:the_nether",
@@ -37,7 +37,7 @@
   },
   "minigame": {
     "doMinigame": true,
-    "minigameDifficultyMultiplier": 1.0,
+    "minigameDifficultyMultiplier": 0.35,
     "doSuccessSound": true,
     "doFailSound": true,
     "useThirdPartyMinigames": true,

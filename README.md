@@ -1,10 +1,9 @@
 # MPJ_Project
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 57 mods (19 dependencies), 1 resource pack, 3 shaders
+**Minecraft 1.21.1 · neoforge 21.1.248**, 58 mods (20 dependencies), 1 resource pack, 1 shader
 
 ## Contents
 
-- [[BTB] Back To Basics](https://modrinth.com/project/btb-back-to-basics) `1.1.1`
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.2.4-neoforge-1.21`
 - [AI Improvements](https://modrinth.com/project/ai-improvements) `0.5.3`
 - AllTheLeaks (Memory Leak Fix) `alltheleaks-1.1.12+1.21.1-neoforge.jar` (curseforge)
@@ -46,10 +45,10 @@
 - [NBT Autocomplete](https://modrinth.com/project/nbt-autocomplete) `1.3.10`
 - [Nitrogen](https://modrinth.com/project/nitrogen_rbn) `1.7.9-1.21.1`
 - No Cubes Reloaded `[NeoForge 1.21.1] NoCubesReloaded 1.0.10` (curseforge)
+- No Hunger `2.0.2.0` (curseforge)
 - No See, No Tick `No See, No Tick - 2.0.0 MC 1.21` (curseforge)
 - Packet Fixer `Packet Fixer 3.3.1` (curseforge)
 - ProbeJS `ProbeJS-8.0.3.jar` (curseforge)
-- [PSX Shader NB](https://modrinth.com/project/psx-shader-nb) `1.2`
 - PSX-Core Shader `PSX-Core Shader v0.1.6` (curseforge)
 - [Questlog](https://modrinth.com/project/questlog) `3.3.2-1.21.1-neoforge`
 - [Saturn](https://modrinth.com/project/saturn) `mc1.21.1-0.1.5`
