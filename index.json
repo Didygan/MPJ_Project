@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/mods/accessible-step.json",
+      "sha1": "4ba4497c5a08ab5c5d7d805bb7b646feaed64196"
+    },
+    {
       "path": "content/mods/ai-improvements.json",
       "sha1": "496a19c47957aafff0d017c3085e07c47b626355"
     },
@@ -482,7 +486,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "f12713dc162a36ebdd29e14543d42c83f774b7e6"
+      "sha1": "8527a03bed1f4a40d09bd87097c619a2867fc17d"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -529,12 +533,16 @@
       "sha1": "e20b0bfedfa3c98189edeec826b9f2d626765f1e"
     },
     {
+      "path": "overrides/defaultconfigs/accessible-step.json",
+      "sha1": "1d2e3d235e535005e7c894ad1d47cfb92b41c2ae"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "c7fae4ba31b3a7942189d1c3669a4e2af4d6a718"
     },
     {
       "path": "overrides/kubejs/server_scripts/main.js",
-      "sha1": "1df9a60d3b22921fca3d98b0fad88220c4d3902a"
+      "sha1": "931d55a317aad3710f09f03af3a7c8b58d21c00e"
     },
     {
       "path": "overrides/options.txt",

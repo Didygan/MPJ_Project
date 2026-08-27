@@ -1,0 +1,23 @@
+{
+  "name": "Accessible Step",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "z6d6n7ve",
+      "slug": "accessible-step",
+      "versionId": "yXZeHmn8",
+      "versionNumber": "v2.2.2+1.21.1-neoforge",
+      "filename": "accessible-step-neoforge-mc1.21.1-2.2.2+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/z6d6n7ve/versions/yXZeHmn8/accessible-step-neoforge-mc1.21.1-2.2.2%2B1.21.1.jar",
+      "sha1": "42b1e5885cc96b631b6af8993ff8c0875f8f581f",
+      "sha512": "3600aef976c13574e596b82900a2d4ec62b167fbb2cf1ded169f136e53248500abcb17256e4a9898bf7e18cbe8e58265d84bf9df5a7ee64210f605d766c35003",
+      "fileSize": 127290
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

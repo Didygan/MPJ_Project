@@ -1,10 +1,11 @@
 # MPJ_Project
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 58 mods (20 dependencies), 1 resource pack, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.248**, 59 mods (20 dependencies), 1 resource pack, 1 shader
 
 ## Contents
 
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.2.4-neoforge-1.21`
+- [Accessible Step](https://modrinth.com/project/accessible-step) `v2.2.2+1.21.1-neoforge`
 - [AI Improvements](https://modrinth.com/project/ai-improvements) `0.5.3`
 - AllTheLeaks (Memory Leak Fix) `alltheleaks-1.1.12+1.21.1-neoforge.jar` (curseforge)
 - [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.1`
