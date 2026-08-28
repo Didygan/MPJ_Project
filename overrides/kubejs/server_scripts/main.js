@@ -18,3 +18,12 @@ ServerEvents.tick(event => {
         `${particleSpeed} ${particleCount} force`
     );
 });
+
+
+PlayerEvents.loggedIn(event => {
+    const player = event.player
+
+    if (player.persistentData.firstWorldOpen) return
+    player.tell(Text.of('Добро пожаловать на борт! Если ваша экспедиция пройдет успешно - можете рассчитывать на досрочное освобождение. Все дальнейшие данные будут направляться на вашу панель задач (Откройте ее, нажав кнопку "ё" или перейдя в нее из инвентаря).').green())
+    player.persistentData.firstWorldOpen = true
+})

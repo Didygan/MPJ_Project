@@ -1,0 +1,23 @@
+{
+  "name": "Void Fog",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cAptbNNE",
+      "slug": "voidfog",
+      "versionId": "UevHoQP1",
+      "versionNumber": "1.21.1-2.1.36",
+      "filename": "VoidFog-1.21.1-2.1.36.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/cAptbNNE/versions/UevHoQP1/VoidFog-1.21.1-2.1.36.jar",
+      "sha1": "9c97af0b2e9f96b5c064b3dff00b5a5b1e36fd39",
+      "sha512": "c04e905c63e5ba3ec4be7cdf8f11edefab512fe40166b7938559216706c837fc3cd7224439cefb53435f5ec4221ec2eb06539c939fe68828d5132d155830498d",
+      "fileSize": 48994
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Constant Music",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tvuSEM6E",
+      "slug": "constant-music",
+      "versionId": "5cKUXBAf",
+      "versionNumber": "neoforge-1.0.6+mc1.21.1",
+      "filename": "constantmusic-neoforge-1.0.6+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tvuSEM6E/versions/5cKUXBAf/constantmusic-neoforge-1.0.6%2Bmc1.21.1.jar",
+      "sha1": "853d2a8a0f4c91047909d4a49ba5fdd328e6eb34",
+      "sha512": "210ce4e92a12667a5137dab953730e5f25c36cca26daf3b349a1ccc9cf3d93050c6e69fdfd6593429e8f9566422e006aa2a33b7aed00e35259748a1c0c1b59d9",
+      "fileSize": 790358
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

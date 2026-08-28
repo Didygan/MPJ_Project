@@ -1,6 +1,6 @@
 # MPJ_Project
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 59 mods (20 dependencies), 1 resource pack, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.248**, 62 mods (20 dependencies), 2 resource packs, 1 shader
 
 ## Contents
 
@@ -17,7 +17,9 @@
 - [Clear Void](https://modrinth.com/project/clear-void) `1.3.1`
 - Concurrent Chunk Management Engine `0.4.0-alpha.0.120 backport devbuild for 1.21.1` (curseforge)
 - Connector Extras `ConnectorExtras 1.12.1+1.21.1` (curseforge)
+- [Constant Music](https://modrinth.com/project/constant-music) `neoforge-1.0.6+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.1+mc1.21.1`
+- [Default Options](https://modrinth.com/project/default-options) `21.1.8+neoforge-1.21.1`
 - FancyMenu `[NeoForge] v3.9.10 MC 1.21.1` (curseforge)
 - Fast Async World Save[Forge/Neo/Fabric] `fastasyncworldsave-1.21-2.6.jar` (curseforge)
 - Fast Leaf Decay `FastLeafDecay-35.jar` (curseforge)
@@ -29,6 +31,7 @@
 - [Forgiving Void](https://modrinth.com/project/forgiving-void) `21.1.7+neoforge-1.21.1`
 - [Global Gamerules (Neoforge)](https://modrinth.com/project/global-gamerules-(neoforge)) `1.21.1-1.0`
 - Global Packs `v21.0.6 - NeoForge - 1.21-1.21.1` (curseforge)
+- [Horror Ambience Music 2: Forgotten Tunes](https://modrinth.com/project/horror-ambience-music-2-forgotten-tunes) `1.3`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.12+1.21.1-neoforge`
 - [Immersive Optimization](https://modrinth.com/project/immersive-optimization) `0.2.0+1.21.1`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
@@ -61,6 +64,7 @@
 - [Tide 2](https://modrinth.com/project/tide) `2.1.1`
 - Toast Control `ToastControl-1.21.1-9.0.1.jar` (curseforge)
 - [Vintage - Programmer Art Remade](https://modrinth.com/project/vintage) `3.1`
+- [Void Fog](https://modrinth.com/project/voidfog) `1.21.1-2.1.36`
 - [WATERMeDIA: Multimedia API](https://modrinth.com/project/watermedia) `3.0.0.23`
 - [WATERMEDIA: Multimedia Binaries](https://modrinth.com/project/watermedia-binaries) `3.0.0.6`
 - [Wayfinder](https://modrinth.com/project/wayfinder_rbn) `2.3-fabric.1.21.1`

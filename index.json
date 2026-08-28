@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/balm.json",
-      "sha1": "94d7a4b17cbeaa07cc5406e253a3a6d416814652"
+      "sha1": "5be28efeb2eb3b3f26e7c546d45914b575847697"
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
@@ -65,6 +65,10 @@
       "sha1": "5a42241a11cdb639c9f82d13aa4fb12314a51583"
     },
     {
+      "path": "content/mods/constant-music.json",
+      "sha1": "edf8a28f21fd9615ad39eb588b0f3568030203d6"
+    },
+    {
       "path": "content/mods/create-aeronautics.json",
       "sha1": "869a5afe78b51fb72599f5bba186022ab0166aaa"
     },
@@ -75,6 +79,10 @@
     {
       "path": "content/mods/cupboard.json",
       "sha1": "cfb6f5350436706194d998b68289319e1595d8e9"
+    },
+    {
+      "path": "content/mods/default-options.json",
+      "sha1": "7f3a0becde66b176a9bc587744e1aa3f10179a2c"
     },
     {
       "path": "content/mods/entity-model-features.json",
@@ -293,6 +301,10 @@
       "sha1": "ad910c3367d4785f9e80445ead85b15ec6768a51"
     },
     {
+      "path": "content/mods/voidfog.json",
+      "sha1": "57209dd307b7c6f62cdf85ab1027013de1dc341f"
+    },
+    {
       "path": "content/mods/watermedia-binaries.json",
       "sha1": "7b0323616126d964909ac6496fe0a0a95b8f3e4b"
     },
@@ -313,12 +325,32 @@
       "sha1": "8c529620a1db93fb263b95b3fd7dc455d1e98229"
     },
     {
+      "path": "content/resourcepacks/horror-ambience-music-2-forgotten-tunes.json",
+      "sha1": "4d21c654db852005f0496eb314d6ccfb957bfa9f"
+    },
+    {
       "path": "content/resourcepacks/vintage.json",
       "sha1": "223f4ddb4c2364c5fa410a83aec48c074fd73c69"
     },
     {
       "path": "content/shaders/psx.json",
       "sha1": "48f259720d683dd3260566fc3902dde20d2959e5"
+    },
+    {
+      "path": "overrides/config/constantmusic.toml",
+      "sha1": "9c663f22be5947a101d37d0b8bfe1c101e0b0c3e"
+    },
+    {
+      "path": "overrides/config/defaultoptions-common.toml",
+      "sha1": "3aebc586067d83965405ed57109080cab0cdbed0"
+    },
+    {
+      "path": "overrides/config/defaultoptions/keybindings.txt",
+      "sha1": "b36db0bed7741c4d3db236c4ed93bb3b34b5dd35"
+    },
+    {
+      "path": "overrides/config/defaultoptions/options.txt",
+      "sha1": "ac40f47f78a16f43bf85371761831e0c8ec5c2b0"
     },
     {
       "path": "overrides/config/fancymenu/assets/click.ogg",
@@ -466,7 +498,7 @@
     },
     {
       "path": "overrides/config/global_packs.toml",
-      "sha1": "7edd82e000afae8dfde715377f7bf0808c10088d"
+      "sha1": "1b5cf04c6e0aa1337f8cfe6f938db78e772ecf36"
     },
     {
       "path": "overrides/config/globalrules-common.toml",
@@ -486,7 +518,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "8527a03bed1f4a40d09bd87097c619a2867fc17d"
+      "sha1": "4edfadcb411c47b72f14494f9ec1aa80dbf60a6f"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -497,12 +529,20 @@
       "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
     },
     {
+      "path": "overrides/config/particle_core_config.toml",
+      "sha1": "43e6c438d51b00a097df56f6625d62bd3ce8029a"
+    },
+    {
+      "path": "overrides/config/particle_core_disabled_optimizations_v2.json",
+      "sha1": "b4bf74388de7da02460fe124655439bfbcf2c29a"
+    },
+    {
       "path": "overrides/config/questlog-client.toml",
       "sha1": "8724c43b4263b116d1e6306333ae27123eb108e2"
     },
     {
       "path": "overrides/config/sodium-extra-options.json",
-      "sha1": "f1fb60c2ca7b5254b504f0f6ecb4edc2223dcd9b"
+      "sha1": "539883570f0efdfaa7139811119bbc165d374332"
     },
     {
       "path": "overrides/config/sodium-extra.properties",
@@ -542,11 +582,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/main.js",
-      "sha1": "931d55a317aad3710f09f03af3a7c8b58d21c00e"
-    },
-    {
-      "path": "overrides/options.txt",
-      "sha1": "a107d82f66d03275823db266d1a011f589536a0f"
+      "sha1": "c4d3daf1543ee207c4d2b52b576700447ddff1c9"
     },
     {
       "path": "overrides/resourcepacks/questlog_resprite.zip",

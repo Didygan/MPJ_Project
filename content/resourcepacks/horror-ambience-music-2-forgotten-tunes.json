@@ -1,0 +1,23 @@
+{
+  "name": "Horror Ambience Music 2: Forgotten Tunes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SLE5LDgf",
+      "slug": "horror-ambience-music-2-forgotten-tunes",
+      "versionId": "6euH3HfN",
+      "versionNumber": "1.3",
+      "filename": "Horror Ambience Forgotten Tunes 1.3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/SLE5LDgf/versions/6euH3HfN/Horror%20Ambience%20Forgotten%20Tunes%201.3.zip",
+      "sha1": "c0f1d960a7e506171cc3c511b679c1478afe2e04",
+      "sha512": "59cdd7a86dec692a24ffc9870dded47e2b0e1801eafa13996741632ef545a0e6a74361cc0e8e3fef94bce15b0fc4ebc73d346921d0c96470b622097d11e21a23",
+      "fileSize": 106972620
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
