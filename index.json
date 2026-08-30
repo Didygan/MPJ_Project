@@ -274,7 +274,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "7d7d7755fbf5ced9f68a026e276597ab3c264542"
+      "sha1": "0faff94555ca9054349bfae89032abb3b7825ad2"
     },
     {
       "path": "content/mods/spark.json",
@@ -382,7 +382,7 @@
     },
     {
       "path": "overrides/config/fancymenu/assets/sea.mp4",
-      "sha1": "2b026a6f09561bc019b33266310d77399ed01c15"
+      "sha1": "a989c1a789353bc4b18c072d5b9089d677b06c95"
     },
     {
       "path": "overrides/config/fancymenu/assets/settings.png",
@@ -518,7 +518,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "4edfadcb411c47b72f14494f9ec1aa80dbf60a6f"
+      "sha1": "e2e9a5a8d0e3ddcc2948b6b267203e74d67c8408"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
